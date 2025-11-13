@@ -316,15 +316,12 @@ User Submits Symptoms
 
 ---
 
-## 📄 License
-
-Developed by **Value Health AI Inc.**
 
 ---
 
 ## 🆘 Support
 
-- **Issues**: [GitHub Issues](https://github.com/vaibhav-krishna23/Symptoms-Tracker-Advanced/issues)
+- **Issues**: [GitHub Issues](https://github.com/Hughclaw18/Symptoms-Tracker-Advanced/issues)
 - **Medical Emergencies**: Contact emergency services immediately
 
 ---
@@ -345,5 +342,5 @@ This application is for symptom tracking and monitoring purposes only. It does *
 ---
 
 **Version**: 2.0.0  
-**Made with ❤️ by Vaibhav Krishna**  
+**Made with ❤️ by Prajeet Ragav R**  
 **Powered by**: FastMCP + LangGraph + Google Gemini AI
